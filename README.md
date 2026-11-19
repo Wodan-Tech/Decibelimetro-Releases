@@ -15,7 +15,9 @@ Todas as versões e novidades: [Releases](https://github.com/Wodan-Tech/Decibeli
 - **Calibrar**: fale normalmente por 6 segundos e o limite se ajusta à sua voz.
 - Quando a voz sobe, as **bordas da tela vão ficando vermelhas** aos poucos.
 - Se o volume ficar alto por alguns segundos, aparece um aviso no canto da tela e toca
-  um bipe curto. Dá para escolher: só som, só visual ou os dois.
+  um som curto. Dá para escolher: só som, só visual ou os dois.
+- Em **Ajustes de tempo** você escolhe quanto tempo de voz alta dispara o aviso e quanto
+  tempo esperar entre um aviso e outro.
 - Fica na bandeja, perto do relógio, e pode iniciar junto com o Windows.
 - Atualiza-se sozinho quando sai uma versão nova.
 
