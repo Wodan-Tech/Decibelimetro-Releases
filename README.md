@@ -12,7 +12,7 @@ Todas as versões e novidades: [Releases](https://github.com/Wodan-Tech/Decibeli
 ## Como funciona
 
 - Mostra o nível do volume em tempo real, com um limite ajustável.
-- **Calibrar**: fale normalmente por 6 segundos e o limite se ajusta à sua voz.
+- **Calibrar**: fale normalmente por 8 segundos e o limite se ajusta à sua voz.
 - Quando a voz sobe, as **bordas da tela vão ficando vermelhas** aos poucos.
 - Se o volume ficar alto por alguns segundos, aparece um aviso no canto da tela e toca
   um som curto. Dá para escolher: só som, só visual ou os dois.
