@@ -16,8 +16,14 @@ Todas as versões e novidades: [Releases](https://github.com/Wodan-Tech/Decibeli
 - Quando a voz sobe, as **bordas da tela vão ficando vermelhas** aos poucos.
 - Se o volume ficar alto por alguns segundos, aparece um aviso no canto da tela e toca
   um som curto. Dá para escolher: só som, só visual ou os dois.
-- Em **Ajustes de tempo** você escolhe quanto tempo de voz alta dispara o aviso e quanto
+- No modo Avançado você escolhe quanto tempo de voz alta dispara o aviso e quanto
   tempo esperar entre um aviso e outro.
+- **Personalidades**: escolha o jeito de falar do app, cada uma com frases e som
+  próprios: Gentil, Direto, Rabugento, Passivo-agressivo, Treinador, Bibliotecária,
+  Dramático, Nerd e Mãe.
+- Balões com frases de vez em quando e o botão **Diga algo** (também no menu da bandeja).
+- Modo **Básico** (só o essencial) ou **Avançado** (todas as opções).
+- Some do **compartilhamento de tela**: você vê os avisos, quem assiste à reunião não.
 - Fica na bandeja, perto do relógio, e pode iniciar junto com o Windows.
 - Atualiza-se sozinho quando sai uma versão nova.
 
