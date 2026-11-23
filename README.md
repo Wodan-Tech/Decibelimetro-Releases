@@ -23,6 +23,9 @@ Todas as versões e novidades: [Releases](https://github.com/Wodan-Tech/Decibeli
   Dramático, Nerd e Mãe.
 - Balões com frases de vez em quando e o botão **Diga algo** (também no menu da bandeja).
 - Modo **Básico** (só o essencial) ou **Avançado** (todas as opções).
+- **Só em reuniões** (opcional): o app só mede enquanto Teams, Zoom, Meet ou outra chamada
+  usa o microfone; fora delas o microfone fica fechado.
+- Com a tela bloqueada o app pausa: nada de avisos nem notificações acumuladas.
 - Some do **compartilhamento de tela**: você vê os avisos, quem assiste à reunião não.
 - Fica na bandeja, perto do relógio, e pode iniciar junto com o Windows.
 - Atualiza-se sozinho quando sai uma versão nova.
